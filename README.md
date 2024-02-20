@@ -1,2 +1,2 @@
-# switch-case-program
-c language
+## Author - Rohit sahu
+switch case statement in c language
